@@ -1,0 +1,3 @@
+Running GEPNN solver for Iris Classification
+Running GEPNN solver for Iris Classification
+Iter 0 got train / test accuracies: 0.6639344262295082 / 0.6785714285714286 

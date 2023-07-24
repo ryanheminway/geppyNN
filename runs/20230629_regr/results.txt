@@ -1,0 +1,28 @@
+Running GEPNN solver for a Regression problem
+Iter 0 got best fitness: 995.9571402527979 
+Iter 1 got best fitness: 996.691777899989 
+Iter 2 got best fitness: 960.2809373101396 
+Iter 3 got best fitness: 995.2743559757815 
+Iter 4 got best fitness: 996.7206797916299 
+Iter 5 got best fitness: 999.0114323753909 
+Iter 6 got best fitness: 997.7433610622759 
+Iter 7 got best fitness: 998.7280234266609 
+Iter 8 got best fitness: 997.2627808485183 
+Iter 9 got best fitness: 960.2762672559195 
+Iter 10 got best fitness: 999.2835891255457 
+Iter 11 got best fitness: 996.4560048944304 
+Iter 12 got best fitness: 999.7976544755746 
+Iter 13 got best fitness: 996.4773135248298 
+Iter 14 got best fitness: 997.2170526630584 
+Iter 15 got best fitness: 997.3610807853339 
+Iter 16 got best fitness: 995.0187608625984 
+Running GEPNN solver for a Regression problem
+Running GEPNN solver for a Regression problem
+Iter 0 got best fitness: 999.7057135122552 
+Iter 1 got best fitness: 998.8610024210399 
+Running GEPNN solver for a Regression problem
+Iter 0 got best fitness: 997.4046370163862 
+Iter 1 got best fitness: 999.2832175899564 
+Iter 2 got best fitness: 992.2076763198194 
+Iter 3 got best fitness: 997.2235288515053 
+Iter 4 got best fitness: 999.5101971890672 

@@ -1,0 +1,2 @@
+Running GEPNN solver for a Regression problem
+Iter 0 got best fitness: 997.1103225562952 

@@ -1,0 +1,13 @@
+digraph {
+	graph [splines=ortho]
+	0 [label=mult]
+	1 [label=a]
+	2 [label="+"]
+	4 [label=div]
+	1 -> 0 [dir=Forward xlabel=1.2030193987530766]
+	2 -> 0 [dir=Forward xlabel=-1.6845775824867983]
+	1 -> 2 [dir=Forward xlabel=-1.3369880512002728]
+	4 -> 2 [dir=Forward xlabel=-1.6845775824867983]
+	1 -> 4 [dir=Forward xlabel=1.2030193987530766]
+	1 -> 4 [dir=Forward xlabel=1.1841014199537856]
+}

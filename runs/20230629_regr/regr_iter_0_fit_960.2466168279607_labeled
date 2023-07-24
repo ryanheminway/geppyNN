@@ -1,0 +1,7 @@
+digraph {
+	graph [splines=ortho]
+	0 [label=mult]
+	1 [label=a]
+	1 -> 0 [dir=Forward xlabel=1.6456855827981896]
+	1 -> 0 [dir=Forward xlabel=1.9162084588758135]
+}

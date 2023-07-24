@@ -1,0 +1,16 @@
+digraph {
+	graph [splines=ortho]
+	0 [label="+"]
+	1 [label="+"]
+	2 [label=a]
+	3 [label=mult]
+	6 [label="+"]
+	1 -> 0 [dir=Forward xlabel=""]
+	2 -> 0 [dir=Forward xlabel=""]
+	3 -> 1 [dir=Forward xlabel=""]
+	2 -> 1 [dir=Forward xlabel=""]
+	2 -> 3 [dir=Forward xlabel=""]
+	6 -> 3 [dir=Forward xlabel=""]
+	2 -> 6 [dir=Forward xlabel=""]
+	2 -> 6 [dir=Forward xlabel=""]
+}
